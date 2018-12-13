@@ -12,7 +12,7 @@ main{
 }
 .first{
 	height: 100%;
-	background-image: url('../img/im.jpg');
+	background-image: url('../img/img.jpg');
 	background-position: center;
 	background-size: cover;   
 }
@@ -20,7 +20,7 @@ html{
 	height: 100%;
 }
 p.Tourism{
-	color: #000000;
+	color: #ffffff;
 	font-size: 21px;
 	text-align: center;
 	padding-top:  80px;
@@ -48,7 +48,7 @@ p.Tourism{
 .foot{
 	width: 100%;
 	height: calc(100vw*326 / 1400);
-	background-image: url(../img/im2.jpg); 
+	background-image: url(../img/foot.jpg); 
 	background-position: center;
 	background-size: cover;
 	padding-top: 96px;
@@ -79,7 +79,7 @@ p.Tourism{
 .foot-text {
 	color: #ffffff;
 	line-height: 26px;
-	font-size: 16px;
+	font-size: 13px;
 	width: 620px;
 	margin: 0 auto;
 	padding-top: 32px;
@@ -103,7 +103,7 @@ p.Tourism{
 .img-container{
 	margin: 34px 15%;
 }
-.im1{
+.img1{
 	width: 49%;
 	vertical-align: top;
 }
@@ -114,43 +114,5 @@ p.Tourism{
 }
 .wrapper img{
 	width: 100%;
-	margin-bottom: 2px;
-}
-.im2{
-	width: 50%;
-	padding-left: 20px;
-}
-.im3{
-	width: 49%;
-	vertical-align: top;
-}
-.im4{
-	width: 50%;
-}
-.im5{
-	width: 49%;
-}
-.im6{
-	width: 50%;
-}
-.im7{
-	width: 49%;
-}
-.im8{
-	width: 50%;
-}
-.im9{
-	width: 49%;
-}
-.im10{
-	width: 50%;
-}
-.im11{
-	width: 49%;
-}
-.im12{
-	width: 50%;
-}
-.im13{
-	width: 49%;
+	margin-bottom: 20px;
 }
